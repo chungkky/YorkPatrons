@@ -1,0 +1,4 @@
+# ignore contents in RAW directory. This directory is usually
+# for original source data files
+
+RAW/
