@@ -11,7 +11,7 @@ Conyers, Christopher, Sir
 Courtenay, Thomas, earl of Devon
 Dacre, Thomas, Lord 
 Darcy, John
-Deincourt, Lady
+Deincourt, FirstName, Lady
 de la Pole, William Suffolk, (earl, marquis, duke)
 Eure, William, Sir
 Fiennes, John, Lord of Say and Sele
